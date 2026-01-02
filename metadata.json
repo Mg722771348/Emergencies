@@ -1,0 +1,7 @@
+{
+  "name": "MSSG Emergencies | Fareham Boiler Repair",
+  "description": "Specialist emergency boiler breakdown service for Fareham and Hampshire. 24/7 support for no heating or hot water issues.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
